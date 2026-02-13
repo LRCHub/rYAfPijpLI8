@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "ミステイル",
+  "base_artist": "THE ORAL CIGARETTES",
+  "createdAt": "2026-02-13T23:38:20.064962Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ミステイル",
+      "artist": "THE ORAL CIGARETTES",
+      "has_synced": true,
+      "path": "select/01_ミステイル_THE_ORAL_CIGARETTES.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ミステイル",
+      "artist": "THE ORAL CIGARETTES",
+      "has_synced": true,
+      "path": "select/02_ミステイル_THE_ORAL_CIGARETTES.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ミステイル - Miss Tail",
+      "artist": "THE ORAL CIGARETTES",
+      "has_synced": true,
+      "path": "select/03_ミステイル_-_Miss_Tail_THE_ORAL_CIGARETTES.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ミステイル",
+      "artist": "THE ORAL CIGARETTES",
+      "has_synced": false,
+      "path": "select/pl_01_ミステイル_THE_ORAL_CIGARETTES.txt"
+    }
+  ]
+}
